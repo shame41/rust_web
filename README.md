@@ -1,2 +1,1 @@
-##打开/target/release下的main-service文件即可运行
-**仅限linux**
+##没能完整实现，由于时间问题许多bug没修改
